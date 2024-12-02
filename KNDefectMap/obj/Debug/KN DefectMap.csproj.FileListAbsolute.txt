@@ -1,0 +1,21 @@
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KN DefectMap.csprojAssemblyReference.cache
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.FLogin.resources
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.FormDefectMap.resources
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.Properties.Resources.resources
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KN DefectMap.csproj.GenerateResource.cache
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KN DefectMap.csproj.CoreCompileInputs.cache
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\KNDefectMap.exe.config
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\KNDefectMap.exe.manifest
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\KNDefectMap.application
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\KNDefectMap.exe
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\KNDefectMap.pdb
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\Impersonator.dll
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\MySql.Data.dll
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\System.Data.OracleClient.dll
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\Impersonator.pdb
+D:\Ryan_Chiu\KNDefectMap\bin\Debug\Impersonator.xml
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.exe.manifest
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.application
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KN DefectMap.csproj.CopyComplete
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.exe
+D:\Ryan_Chiu\KNDefectMap\obj\Debug\KNDefectMap.pdb
